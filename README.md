@@ -7,10 +7,11 @@ KEKO FIS VŠE Praha
 
 --- 
 
-### Body a klasifikace
+### Body a klasifikace, základní informace
 
 + [Podrobné informace ke klasifikaci zde](./CourseClassification.html)
-+ [Literatura](./LiteratureSupport.html)
++ [Literatura](./LiteratureSupport.html)  
++ [Sylabus kurzu](https://github.com/formanektomas/4EK516/raw/master/sylabus.pdf)
 
 ---
 
