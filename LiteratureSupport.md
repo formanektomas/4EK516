@@ -2,34 +2,13 @@
 layout: default
 ---
 
-## Basic literature:
+## Základní literatura:
 
-+ James, G. et al., [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/).
-+ Greene, W.H., Econometric analysis.
+*	HARVEY, A C.:	Dynamic models for volatility and heavy tails: with applications to financial and economic time series.	Cambridge	Cambridge University Press	2013  
+*	WANG, P.:	Financial econometrics: methods and models.	London	Routledge	2003  
+*	SHUMWAY, R H. -- STOFFER, D S.:	Time series analysis and its applications: with R examples.	New York	Springer	2011
+*	DURBIN, J. -- KOOPMAN, S J.:	Time series analysis by state space methods	Oxford	Oxford University Press	2001
 
-## Supporting literature:
-
-+ Hastie, T. et al., [The Elements of
-Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/).
-
---- 
-
-## Stack Exchange:
-
-+ [stackoverflow R](https://stackoverflow.com/tags/r/info).  
-+ [CrossValidated](https://stats.stackexchange.com/).  
-
---- 
-
-
-## Datasets
-
-+ [https://vincentarelbundock.github.io/Rdatasets/datasets.html](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
-+ [https://r-dir.com/reference/datasets.html](https://r-dir.com/reference/datasets.html)
-
----
-
-[Old website for the course (no longer updated)](https://sites.google.com/site/econometricseminar/4ek417) 
 
 
 --- 
