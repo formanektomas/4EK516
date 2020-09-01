@@ -1,5 +1,3 @@
-# Pokročilá ekonometrie 2 (4EK516)
-
 --- 
 
 **Vyučující:**  
@@ -15,5 +13,9 @@ KEKO FIS VŠE Praha
 + [Literatura](./LiteratureSupport.html)
 
 ---
+
+### Informace ke kurzu a podklady pro studenty
+
+
 
 [Homepage](https://formanektomas.github.io/4EK516/)
