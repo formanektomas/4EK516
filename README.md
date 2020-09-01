@@ -1,3 +1,5 @@
+## Pokročilá ekonometrie 2 (4EK516)
+
 **Vyučující:**  
 [Andrea Čížků](https://insis.vse.cz/auth/lide/clovek.pl?id=2357)   
 [Petra Tomanová](https://insis.vse.cz/auth/lide/clovek.pl?id=85567)    
