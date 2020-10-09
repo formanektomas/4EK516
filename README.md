@@ -20,6 +20,13 @@ KEKO FIS VŠE Praha
 + [Materialy k hodině 1](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/prednaska_cviceni_1.zip)  
 
 
+---
+
+### Andrea Čížků
+
++ [Materialy k hodině 2](https://github.com/formanektomas/4EK516/blob/master/Andrea_Cizku/hodina_2.zip)  
+
+
 ----
 
 ### Informace ke kurzu a podklady pro studenty
