@@ -21,7 +21,7 @@ KEKO FIS VŠE Praha
 
 
 ---
-
+ 
 ### Andrea Čížků
 
 + [Materiály k hodině 2](https://github.com/formanektomas/4EK516/blob/master/Andrea_Cizku/hodina_2.zip)  
