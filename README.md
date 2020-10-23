@@ -20,6 +20,8 @@ KEKO FIS VŠE Praha
 + [Materiály k hodině 1](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/prednaska_cviceni_1.zip)  
 + [Materiály k hodině 2](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/hodina_2.zip)  
 + [Materiály k hodině 3](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/hodina_3.zip)  
++ [Materiály k hodině 4](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/hodina_4.zip)  
++ [Témata seminárních prací](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/temata_seminarnich_praci_Cizku.docx)  
 
 ----
 
