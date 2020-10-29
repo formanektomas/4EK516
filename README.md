@@ -27,7 +27,8 @@ KEKO FIS VŠE Praha
 
 ### Petra Tomanová
 
-+ [Zadání a témata semestrální práce](https://github.com/formanektomas/4EK516/raw/master/Petra_Tomanova/zadani_seminarni_prace.pdf)  
++ [Zadání a témata semestrální práce](https://github.com/formanektomas/4EK516/raw/master/Petra_Tomanova/zadani_seminarni_prace.pdf) 
++ [Cvičení](https://github.com/formanektomas/4EK516/raw/master/Petra_Tomanova/exercises.pdf) 
 
 ----
 
