@@ -23,6 +23,12 @@ KEKO FIS VŠE Praha
 + [Materiály k hodině 4](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/hodina_4.zip)  
 + [Témata seminárních prací](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/temata_seminarnich_praci_Cizku.docx)  
 
+---
+
+### Petra Tomanová
+
++ [Témata seminárních prací](https://github.com/formanektomas/4EK516/raw/master/Petra_Tomanova/zadani_seminarni_prace.pdf)  
+
 ----
 
 ### Informace ke kurzu a podklady pro studenty
