@@ -32,6 +32,7 @@ KEKO FIS VŠE Praha
 + [Materiály k hodině 1](https://github.com/formanektomas/4EK516/raw/master/Petra_Tomanova/tyden_1.zip)  
 + [Materiály k hodině 2](https://github.com/formanektomas/4EK516/raw/master/Petra_Tomanova/tyden_2.zip) 
 + [Materiály k hodině 3](https://github.com/formanektomas/4EK516/raw/master/Petra_Tomanova/tyden_3.zip) 
++ [Materiály k hodině 4](https://github.com/formanektomas/4EK516/raw/master/Petra_Tomanova/tyden_4.zip) 
 
 ----
 
