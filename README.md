@@ -26,6 +26,12 @@ KEKO FIS VŠE Praha
 
 ---
 
+### Seznam vzorců
++ [Seznam vzorců povolených v průběžném testu](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/seznam_vzorcu.pdf) 
+
+
+---
+
 ### Témata seminárních prací
 + [Témata seminárních prací](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/temata_seminarnich_praci_Cizku.pdf) 
 
