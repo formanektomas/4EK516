@@ -23,6 +23,7 @@ KEKO FIS VŠE Praha
 + [Materiály k hodině 5](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/hodina_5.zip)   
 + [Materiály k hodině 6](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/hodina_6.zip)   
 + [Materiály k hodině 7](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/hodina_7.zip)  
++ [Materiály k hodině 8](https://github.com/formanektomas/4EK516/raw/master/Andrea_Cizku/lecture_2.pdf)  
 
 ---
 
